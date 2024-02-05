@@ -1,4 +1,5 @@
 {
+    "id": "34089097-d3d0-43ca-8884-5c40dd0cf866",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -30,7 +31,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(248, 110, 110, 1)"
+            "backgroundColor": "rgba(144, 19, 254, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -44,7 +45,7 @@
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
-        "BackgroundColor": "rgba(248, 110, 110, 1)"
+        "BackgroundColor": "rgba(144, 19, 254, 1)"
     },
     "children": [
         {
@@ -718,7 +719,6 @@
             "name": "Layout1"
         }
     ],
-    "id": "34089097-d3d0-43ca-8884-5c40dd0cf866",
     "thunkableVersion": 442,
     "name": "Screen1"
 }

@@ -142,51 +142,12 @@
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
-            "dataSourceLinks": [
-                {
-                    "id": "65b7fe5de1323036c0fc1b5d",
-                    "dataSource": {
-                        "id": "65b7fe59e1323036c0fc1af1",
-                        "name": "Yandex Supported Languages",
-                        "configuration": {
-                            "id": "65b7fe59e1323036c0fc1b06",
-                            "type": "GOOGLE_SHEETS",
-                            "__typename": "GoogleSheetsDataSourceConfiguration"
-                        },
-                        "collections": [
-                            {
-                                "id": "65b7fe5d76ca29e87aae52e9",
-                                "name": "0",
-                                "label": "Sheet1",
-                                "fields": [
-                                    {
-                                        "id": "65b7fe5d76ca29e87aae52ea",
-                                        "name": "1615107831-0",
-                                        "label": "Languages",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "65b7fe5d76ca29e87aae52eb",
-                                        "name": "1752820021-1",
-                                        "label": "Codes",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    }
-                                ],
-                                "__typename": "DataSourceCollection"
-                            }
-                        ],
-                        "__typename": "DataSource"
-                    },
-                    "__typename": "DataSourceLink"
-                }
-            ],
+            "dataSourceLinks": [],
             "localDataSources": [],
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "1",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
