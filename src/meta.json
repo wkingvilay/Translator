@@ -1,0 +1,211 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": []
+                }
+            },
+            "assets": {
+                "65b6ae9b698dcee04cc6f84c": {
+                    "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
+                    "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/65a6efce59b6406a48db8dc6/projects/65b6ae9b698dcee04cc6f849/assets/65b6ae9b698dcee04cc6f84c",
+                    "backendURI": "/project/65b6ae9b698dcee04cc6f849/getasset/65b6ae9b698dcee04cc6f84c",
+                    "size": "53612",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "_id": "65b6ae9b698dcee04cc6f84c",
+                    "createdAt": "2024-01-24T18:39:40.117Z",
+                    "updatedAt": "2024-01-24T18:39:40.117Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65a6efce59b6406a48db8dc6/projects/65b6ae9b698dcee04cc6f849/assets/65b6ae9b698dcee04cc6f84c?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240205%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240205T171703Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=89f4e92880927840aa5f073cdc8813a42a85f18e9cb2abc4c4114cdf75258edb38b68658b559bfb668deba4cde8924893244c14a1575bd4dada393fda528aee164017ae1a6676fd4b9255d9fa273fde320799bd56fd65e100d1cfed6778f580afdc6b9695d53560ff4df70feaf35a9677fef5a6e82d98f867b28db997b960de9a7bb36ed561bbb272742aa96458fab2d7e89e631141d052e981237239c9969e891ea61e77a81ac526906b41e3a1fb5381be099af60cbaacc49e899afcacb11716d641cfc85a919189e584b7699f7eb26cbee164602c579c56fc56f0fd39d4048412fc0ca6380b0d84ff8a9e9cc41af23e0d916c5552d6f002a7cfe2fb31a3ca7",
+                    "signedUrlExpirationTime": 1707326223106
+                }
+            },
+            "backendUpgradeVersion": 24,
+            "blockly": {
+                "34089097-d3d0-43ca-8884-5c40dd0cf866": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
+            },
+            "categories": [],
+            "components": {
+                "children": [
+                    {
+                        "id": "34089097-d3d0-43ca-8884-5c40dd0cf866"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "Assignment 1 - Translator",
+            "settings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": null,
+                "firebaseDatabaseURL": null,
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": null,
+                "firebaseDatabaseURL": null,
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [
+                {
+                    "id": "65b7fe5de1323036c0fc1b5d",
+                    "dataSource": {
+                        "id": "65b7fe59e1323036c0fc1af1",
+                        "name": "Yandex Supported Languages",
+                        "configuration": {
+                            "id": "65b7fe59e1323036c0fc1b06",
+                            "type": "GOOGLE_SHEETS",
+                            "__typename": "GoogleSheetsDataSourceConfiguration"
+                        },
+                        "collections": [
+                            {
+                                "id": "65b7fe5d76ca29e87aae52e9",
+                                "name": "0",
+                                "label": "Sheet1",
+                                "fields": [
+                                    {
+                                        "id": "65b7fe5d76ca29e87aae52ea",
+                                        "name": "1615107831-0",
+                                        "label": "Languages",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "65b7fe5d76ca29e87aae52eb",
+                                        "name": "1752820021-1",
+                                        "label": "Codes",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    }
+                                ],
+                                "__typename": "DataSourceCollection"
+                            }
+                        ],
+                        "__typename": "DataSource"
+                    },
+                    "__typename": "DataSourceLink"
+                }
+            ],
+            "localDataSources": [],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "1",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {
+                "cd68875f-f35c-4cc2-9773-103f4e8f5692": {
+                    "scope": "APP",
+                    "name": "source",
+                    "screenId": "34089097-d3d0-43ca-8884-5c40dd0cf866"
+                },
+                "b7c175db-54cf-4864-a87c-2a8904a4d273": {
+                    "scope": "APP",
+                    "name": "target",
+                    "screenId": "34089097-d3d0-43ca-8884-5c40dd0cf866"
+                }
+            },
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
